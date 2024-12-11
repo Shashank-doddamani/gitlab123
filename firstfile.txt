@@ -1,0 +1,4 @@
+#firstfile to the main#
+updating in to main into remote repo
+welcome to gitlab
+execute the commands
